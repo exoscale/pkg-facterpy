@@ -1,5 +1,5 @@
-facterpy (0.1-0~xenial0+exo1) xenial; urgency=low
+facterpy (0.1-0~bionic0+exo1) bionic; urgency=low
 
   * Initial packaging.
 
- -- Vincent Bernat <bernat@debian.org>  Tue, 28 Feb 2017 14:27:15 +0100
+ -- Vincent Bernat <bernat@debian.org>  Mon, 28 May 2018 15:10:39 +0200
